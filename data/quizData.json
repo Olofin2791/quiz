@@ -1,0 +1,872 @@
+[
+  {
+    "question": "Which woman’s heartfelt prayer at Shiloh led to the birth of a prophet?",
+    "options": ["Ruth", "Peninnah", "Sarah", "Hannah"],
+    "answer": "Hannah",
+    "ageGroup": "under10"
+  },
+  {
+    "question": "Who was Elkanah’s wife?",
+    "options": ["Rebekah", "Hannah", "Leah", "Michal"],
+    "answer": "Hannah",
+    "ageGroup": "under10"
+  },
+  {
+    "question": "What specific vow did Hannah make concerning her unborn child?",
+    "options": ["To homeschool him", "To give him to the Lord", "To make him a prophet", "To build him a temple"],
+    "answer": "To give him to the Lord",
+    "ageGroup": "under10"
+  },
+  {
+    "question": "Which priest misjudged Hannah’s silent prayers as drunkenness?",
+    "options": ["Samuel", "Eli", "Elkanah", "Phinehas"],
+    "answer": "Eli",
+    "ageGroup": "under10"
+  },
+  {
+    "question": "What misunderstanding did Eli have when he saw Hannah praying?",
+    "options": ["She was mad", "She was possessed", "She was drunk", "She was asleep"],
+    "answer": "She was drunk",
+    "ageGroup": "under10"
+  },
+  {
+    "question": "What name did Hannah give to the son she had promised to dedicate to God?",
+    "options": ["Jonathan", "Samuel", "Eli", "Saul"],
+    "answer": "Samuel",
+    "ageGroup": "under10"
+  },
+  {
+    "question": "When did Hannah fulfill her vow by presenting Samuel to the Lord?",
+    "options": ["After he was weaned", "At age 12", "At age 7", "Immediately after birth"],
+    "answer": "After he was weaned",
+    "ageGroup": "under10"
+  },
+  {
+    "question": "What form of expression did Hannah use to glorify God after giving Samuel?",
+    "options": ["A lament", "A prayer of intercession", "A song of praise", "A scroll of promises"],
+    "answer": "A song of praise",
+    "ageGroup": "under10"
+  },
+  {
+    "question": "What was said about the behavior of Hophni and Phinehas in their roles as priests?",
+    "options": ["Faithful and diligent", "Corrupt and irreverent", "Young and wise", "Timid and passive"],
+    "answer": "Corrupt and irreverent",
+    "ageGroup": "under10"
+  },
+  {
+    "question": "What divine sentence was pronounced upon Eli’s household?",
+    "options": ["Restoration", "Royal honor", "Destruction", "Blessing"],
+    "answer": "Destruction",
+    "ageGroup": "under10"
+  },
+  {
+    "question": "In what way did the Lord first speak to young Samuel?",
+    "options": ["Through thunder", "In a dream", "By calling his name", "Through a prophet"],
+    "answer": "By calling his name",
+    "ageGroup": "under10"
+  },
+  {
+    "question": "How many times did Samuel hear God before Eli understood the situation?",
+    "options": ["Two", "Three", "Four", "One"],
+    "answer": "Three",
+    "ageGroup": "under10"
+  },
+  {
+    "question": "What warning did God give Samuel during their first encounter?",
+    "options": ["Israel would fall", "Eli’s sons would be blessed", "Judgment upon Eli’s family", "A new temple was needed"],
+    "answer": "Judgment upon Eli’s family",
+    "ageGroup": "under10"
+  },
+  {
+    "question": "How did Eli respond after hearing God's judgment through Samuel?",
+    "options": ["He wept", "He resisted", "He rejoiced", "He accepted it"],
+    "answer": "He accepted it",
+    "ageGroup": "under10"
+  },
+  {
+    "question": "According to 1 Samuel 4:3, What sacred item did Israel wrongly believe would guarantee victory in battle?",
+    "options": ["The scrolls", "The Ark of the Covenant", "The altar", "Moses’ staff"],
+    "answer": "The Ark of the Covenant",
+    "ageGroup": "under10"
+  },
+  {
+    "question": "What happened to Eli’s sons in the battle against the Philistines?",
+    "options": ["They were spared", "They were exiled", "They died", "They surrendered"],
+    "answer": "They died",
+    "ageGroup": "under10"
+  },
+  {
+    "question": "What name, meaning ‘the glory has departed,’ did Phinehas’ wife give her son?",
+    "options": ["Ichabod", "Abinadab", "Obed", "Shiloh"],
+    "answer": "Ichabod",
+    "ageGroup": "under10"
+  },
+  
+    {
+  "question": "What special event happened on the Day of Pentecost in Acts 2?",
+  "options": ["Jesus was born", "The disciples caught fish", "The Holy Spirit came", "Paul wrote a letter"],
+  "answer": "The Holy Spirit came",
+  "ageGroup": "under10"
+},
+
+  {
+    "question": "What gift did Jesus promise His followers before ascending to heaven?",
+    "options": ["Peace", "Wealth", "The Holy Spirit", "A crown"],
+    "answer": "The Holy Spirit",
+    "ageGroup": "under10"
+  },
+  {
+    "question": "Where did Jesus instruct His disciples to remain until they were empowered?",
+    "options": ["Nazareth", "Galilee", "Jerusalem", "Bethlehem"],
+    "answer": "Jerusalem",
+    "ageGroup": "under10"
+  },
+  {
+    "question": "How did Jesus visibly depart from His disciples in Acts 1?",
+    "options": ["He vanished", "He entered a cloud", "He was lifted into heaven", "He walked away"],
+    "answer": "He was lifted into heaven",
+    "ageGroup": "under10"
+  },
+  {
+    "question": "What concealed Jesus from the disciples’ sight as He ascended?",
+    "options": ["A mountain", "A curtain", "A cloud", "A pillar of fire"],
+    "answer": "A cloud",
+    "ageGroup": "under10"
+  },
+  {
+    "question": "Who assured the disciples that Jesus would return as He left?",
+    "options": ["A prophet", "Two angels", "John the Baptist", "A Levite"],
+    "answer": "Two angels",
+    "ageGroup": "under10"
+  },
+  {
+    "question": "How many apostles remained after Judas Iscariot's death?",
+    "options": ["11", "10", "12", "13"],
+    "answer": "11",
+    "ageGroup": "under10"
+  },
+  {
+    "question": "Who was chosen to replace Judas among the apostles?",
+    "options": ["Barnabas", "Stephen", "Matthias", "Philip"],
+    "answer": "Matthias",
+    "ageGroup": "under10"
+  },
+  {
+    "question": "Which feast was being celebrated when the Holy Spirit descended?",
+    "options": ["Passover", "Pentecost", "Feast of Trumpets", "Tabernacles"],
+    "answer": "Pentecost",
+    "ageGroup": "under10"
+  },
+  {
+    "question": "What unusual sound marked the arrival of the Holy Spirit?",
+    "options": ["Thunder", "Whispering", "Rushing wind", "Drums"],
+    "answer": "Rushing wind",
+    "ageGroup": "under10"
+  },
+  {
+    "question": "What appeared on the heads of the apostles during Pentecost?",
+    "options": ["Crowns", "Doves", "Tongues of fire", "Halos"],
+    "answer": "Tongues of fire",
+    "ageGroup": "under10"
+  },
+  {
+    "question": "What ability were the apostles given after receiving the Holy Spirit?",
+    "options": ["Healing powers", "Building temples", "Speaking foreign languages", "Dream interpretation"],
+    "answer": "Speaking foreign languages",
+    "ageGroup": "under10"
+  },
+  {
+    "question": "What message did Peter preach to the crowd after the Spirit came?",
+    "options": ["Run for safety", "Stay silent", "Repent and be baptized", "Store your riches"],
+    "answer": "Repent and be baptized",
+    "ageGroup": "under10"
+  },
+  {
+    "question": "Approximately how many people responded and were baptized on the day of pentecost?",
+    "options": ["5,000", "500", "3,000", "1,000"],
+    "answer": "3,000",
+    "ageGroup": "under10"
+  },
+  {
+    "question": "What did Peter and John offer to the lame man at the temple gate?",
+    "options": ["A job", "Food", "Healing in Jesus’ name", "Money"],
+    "answer": "Healing in Jesus’ name",
+    "ageGroup": "under10"
+  },
+  {
+    "question": "What did the healed man do inside the temple?",
+    "options": ["Bowed silently", "Sang quietly", "Leapt and praised God", "Spoke in tongues"],
+    "answer": "Leapt and praised God",
+    "ageGroup": "under10"
+  },
+  {
+    "question": "What did Peter and John say when commanded to stop preaching?",
+    "options": ["We will obey", "We fear for our lives", "We must obey God, not men", "We are only healing people"],
+    "answer": "We must obey God, not men",
+    "ageGroup": "under10"
+  },
+  {
+    "question": "Which book is commonly used as a guide for Anglican worship and liturgy?",
+    "options": ["The Bible", "Book of Common Prayer", "Anglican Missal", "Creed Manual"],
+    "answer": "Book of Common Prayer",
+    "ageGroup": "under10"
+  },
+  {
+    "question": "How many primary sacraments are officially recognized in the Anglican Church?",
+    "options": ["Three", "Two", "One", "Seven"],
+    "answer": "Two",
+    "ageGroup": "under10"
+  },
+  {
+    "question": "What do the elements of bread and wine represent in Holy Communion?",
+    "options": ["Peace and Joy", "Body and Blood of Christ", "Truth and Spirit", "Church and Kingdom"],
+    "answer": "Body and Blood of Christ",
+    "ageGroup": "under10"
+  },
+  {
+    "question": "Who leads the rite of ordination in the Anglican Church?",
+    "options": ["The Provost", "The Bishop", "The Archdeacon", "The Lay Reader"],
+    "answer": "The Bishop",
+    "ageGroup": "under10"
+  },
+  {
+    "question": "What is the name of the prayer where sins are acknowledged and repented?",
+    "options": ["The Creed", "The Confession", "The Intercession", "The Collect"],
+    "answer": "The Confession",
+    "ageGroup": "under10"
+  },
+  {
+    "question": "What is the formal declaration of Christian belief called?",
+    "options": ["Hymn", "Creed", "Canon", "Declaration"],
+    "answer": "Creed",
+    "ageGroup": "under10"
+  },
+  {
+    "question": "What do we call a group of Anglican churches under one bishop?",
+    "options": ["A District", "A Diocese", "A Synod", "A Province"],
+    "answer": "A Diocese",
+    "ageGroup": "under10"
+  },
+  {
+    "question": "What liturgical color is used in the church during the Lenten season?",
+    "options": ["Red", "Purple", "White", "Green"],
+    "answer": "Purple",
+    "ageGroup": "under10"
+  },
+  {
+    "question": "Which church season celebrates Christ’s resurrection?",
+    "options": ["Advent", "Christmas", "Easter", "Trinity"],
+    "answer": "Easter",
+    "ageGroup": "under10"
+  },
+  {
+    "question": "What color represents joy and purity during the Easter celebration?",
+    "options": ["Purple", "Green", "White", "Blue"],
+    "answer": "White",
+    "ageGroup": "under10"
+  },
+  {
+    "question": "Who presides over a diocesan synod?",
+    "options": ["The Dean", "The Diocesan Bishop", "The Chancellor", "The Archdeacon"],
+    "answer": "The Diocesan Bishop",
+    "ageGroup": "under10"
+  },
+  {
+    "question": "Who currently serves as the Primate of the Church of Nigeria (Anglican Communion)?",
+    "options": ["Most Rev. Nicholas Okoh", "Most Rev. Blessing Ehyindah", "Most Rev. Henry C. Ndukuba", "Most Rev. Ali Buba Lamido"],
+    "answer": "Most Rev. Henry C. Ndukuba",
+    "ageGroup": "under10"
+  },
+  {
+    "question": "What rite is required after baptism before receiving Holy Communion?",
+    "options": ["Marriage", "Confirmation", "Ordination", "Anointing"],
+    "answer": "Confirmation",
+    "ageGroup": "under10"
+  },
+  {
+     "question": "What is the name of the church season that prepares us for Easter?",
+  "options": ["Advent", "Christmas", "Lent", "Pentecost"],
+  "answer": "Lent",
+  "ageGroup": "under10"
+
+  },
+  {
+    "question": "What is the meaning of the word 'Amen' in Christian worship?",
+    "options": ["Goodbye", "Let it be so", "Truly", "Peace be with you"],
+    "answer": "Let it be so",
+    "ageGroup": "under10"
+  },
+  {
+    "question": "When is the Nicene Creed typically recited in Anglican services?",
+    "options": ["Morning Prayer", "Baptism", "Holy Communion", "Harvest"],
+    "answer": "Holy Communion",
+    "ageGroup": "under10"
+  },
+
+
+  {
+    "question": "Which of the seven chosen to serve the early Church was noted for being full of faith and the Holy Spirit?",
+    "options": ["Procorus", "Nicanor", "Stephen", "Timon"],
+    "answer": "Stephen",
+    "ageGroup": "under15"
+  },
+  {
+    "question": "Who among the following was NOT listed among the seven men chosen to assist with daily food distribution?",
+    "options": ["Barnabas", "Parmenas", "Nicolas", "Procorus"],
+    "answer": "Barnabas",
+    "ageGroup": "under15"
+  },
+  {
+    "question": "According to Acts 6:7, which group increasingly accepted the faith during the growth of the Church in Jerusalem?",
+    "options": ["Pharisees", "Sadducees", "Teachers of the Law", "Priests"],
+    "answer": "Priests",
+    "ageGroup": "under15"
+  },
+  {
+    "question": "Stephen was described with many virtues in Acts 6:8, EXCEPT which of the following?",
+    "options": ["Full of God’s grace", "Performer of miracles", "Witness to the Gospel", "Full of the Holy Spirit"],
+    "answer": "Witness to the Gospel",
+    "ageGroup": "under15"
+  },
+  {
+    "question": "Who initiated the arrest and trial of Stephen before the Sanhedrin?",
+    "options": ["Elders and Scribes", "Roman Soldiers", "High Priest and Council", "Temple Guards"],
+    "answer": "Elders and Scribes",
+    "ageGroup": "under15"
+  },
+  {
+    "question": "What land did Abraham leave before relocating to Haran according to Stephen's speech?",
+    "options": ["Land of Edomites", "Land of Amorites", "Land of Arameans", "Land of the Chaldeans"],
+    "answer": "Land of the Chaldeans",
+    "ageGroup": "under15"
+  },
+  {
+    "question": "Who did Stephen identify as the father of the twelve patriarchs?",
+    "options": ["Isaac", "Jacob", "Abraham", "Moses"],
+    "answer": "Jacob",
+    "ageGroup": "under15"
+  },
+  {
+    "question": "To whom did God grant wisdom during his time in Egypt?",
+    "options": ["Jacob", "Joseph", "Moses", "Aaron"],
+    "answer": "Joseph",
+    "ageGroup": "under15"
+  },
+  {
+    "question": "In Peter’s rebuke to Simon the sorcerer, what did he urge Simon to do to be forgiven?",
+    "options": ["Believe and be baptized", "Repent and pray", "Confess and fast", "Seek the apostles' blessing"],
+    "answer": "Repent and pray",
+    "ageGroup": "under15"
+  },
+  {
+    "question": "What activity did Peter and John engage in as they returned to Jerusalem from Samaria?",
+    "options": ["Planted churches", "Healed the sick", "Preached in villages", "Ordained elders"],
+    "answer": "Preached in villages",
+    "ageGroup": "under15"
+  },
+  {
+    "question": "Which city was Philip directed to along a desert road by an angel of the Lord?",
+    "options": ["Arad", "Beersheba", "Hebron", "Gaza"],
+    "answer": "Gaza",
+    "ageGroup": "under15"
+  },
+  {
+    "question": "In the Ethiopian’s reading from Isaiah, how was Christ symbolically depicted?",
+    "options": ["As a sheep to be slaughtered", "As a roaring lion", "As a servant on a mission", "As a lamb crowned in glory"],
+    "answer": "As a sheep to be slaughtered",
+    "ageGroup": "under15"
+  },
+  {
+    "question": "Where did the Jews wait day and night to ambush Saul in Damascus?",
+    "options": ["City gates", "Market square", "Temple courtyard", "Jewish synagogues"],
+    "answer": "City gates",
+    "ageGroup": "under15"
+  },
+  {
+    "question": "After the discovery of a plot against Saul in Jerusalem, where was he taken for safety?",
+    "options": ["Joppa", "Tyre", "Caesarea", "Antioch"],
+    "answer": "Caesarea",
+    "ageGroup": "under15"
+  },
+  {
+    "question": "Which region was Cornelius, the devout centurion, serving in?",
+    "options": ["Tyre", "Samaria", "Italian Regiment", "Caesarea"],
+    "answer": "Italian Regiment",
+    "ageGroup": "under15"
+  },
+  {
+    "question": "How many times did the heavenly voice instruct Peter to eat the animals in the sheet vision?",
+    "options": ["Once", "Twice", "Three times", "Seven times"],
+    "answer": "Three times",
+    "ageGroup": "under15"
+  },
+  {
+    "question": "How did Cornelius describe the angel who appeared to him?",
+    "options": ["A mighty warrior", "A man in radiant clothes", "A flaming figure", "A giant with six wings"],
+    "answer": "A man in radiant clothes",
+    "ageGroup": "under15"
+  },
+  {
+    "question": "Who was sent from Caesarea to Peter following his vision?",
+    "options": ["Two Roman guards", "Three men from Caesarea", "Three temple scribes", "One man from Samaria"],
+    "answer": "Three men from Caesarea",
+    "ageGroup": "under15"
+  },
+  {
+    "question": "Which Roman emperor was ruling during Agabus’ prophecy of a great famine?",
+    "options": ["Nero", "Claudius", "Caligula", "Tiberius"],
+    "answer": "Claudius",
+    "ageGroup": "under15"
+  },
+  {
+    "question": "Who were the two individuals entrusted with delivering relief aid to the elders in Judea?",
+    "options": ["Peter and John", "Barnabas and Saul", "Philip and Andrew", "James and Silas"],
+    "answer": "Barnabas and Saul",
+    "ageGroup": "under15"
+  }
+  ,
+  {
+    "question": "What is the liturgical name for the short-sleeved version of the surplice worn in Anglican worship?",
+    "options": ["Alb", "Cotta", "Cassock", "Tippet"],
+    "answer": "Cotta",
+    "ageGroup": "under15"
+  },
+  {
+    "question": "From which two Testaments are the first and second readings taken during Matins in Anglican liturgy?",
+    "options": ["Old and New Testament", "New and Old Testament", "Psalms and Gospels", "Gospels and Epistles"],
+    "answer": "Old and New Testament",
+    "ageGroup": "under15"
+  },
+  {
+    "question": "Which of the following items is NOT typically found on the Anglican altar during Holy Communion?",
+    "options": ["Ciborium", "Flagon", "Rosary", "Paten"],
+    "answer": "Rosary",
+    "ageGroup": "under15"
+  },
+  {
+    "question": "What is the theological purpose of lighting candles in the chancel during the Eucharist?",
+    "options": ["To symbolize the Trinity", "For decoration", "For illumination", "To mark the presence of clergy"],
+    "answer": "For illumination",
+    "ageGroup": "under15"
+  },
+  {
+    "question": "What are stained glass windows traditionally used for in Anglican churches?",
+    "options": ["Ventilation", "Security", "Decoration", "Scriptural storytelling through colored glass"],
+    "answer": "Scriptural storytelling through colored glass",
+    "ageGroup": "under15"
+  },
+  {
+    "question": "Which of these is NOT a requirement for a church to attain full parish status?",
+    "options": ["Belfry", "Vicarage", "Three consecutive years of ordained service", "Bishop’s Court"],
+    "answer": "Bishop’s Court",
+    "ageGroup": "under15"
+  },
+  {
+    "question": "In Anglican polity, who presides over the House of Laity?",
+    "options": ["Bishop", "Dean", "Registrar", "Chancellor"],
+    "answer": "Chancellor",
+    "ageGroup": "under15"
+  },
+  {
+    "question": "Who is responsible for safeguarding the properties of the Diocese?",
+    "options": ["Chancellor", "Dean", "Registrar", "Archdeacon"],
+    "answer": "Registrar",
+    "ageGroup": "under15"
+  },
+  {
+    "question": "Which liturgical role traditionally reads the Gospel passage during the service?",
+    "options": ["Cantor", "Deacon", "Priest", "Subdeacon"],
+    "answer": "Deacon",
+    "ageGroup": "under15"
+  },
+  {
+    "question": "What is the primary spiritual significance of the Lord’s Supper in Anglican belief?",
+    "options": ["Celebration of Easter", "Memorial of Christ’s birth", "Remembrance of Christ’s sacrifice", "Symbol of Christian unity"],
+    "answer": "Remembrance of Christ’s sacrifice",
+    "ageGroup": "under15"
+  },
+  {
+    "question": "Which term best describes Baptism by pouring water over the head?",
+    "options": ["Immersion", "Affusion", "Aspersion", "Submersion"],
+    "answer": "Affusion",
+    "ageGroup": "under15"
+  },
+  {
+    "question": "Which liturgical season sets the timing for the rest of the Christian year?",
+    "options": ["Easter", "Advent", "Lent", "Epiphany"],
+    "answer": "Advent",
+    "ageGroup": "under15"
+  },
+  {
+    "question": "Which item is the official seat of a Bishop in the cathedral?",
+    "options": ["Nave", "Cathedra", "Pulpit", "Lectern"],
+    "answer": "Cathedra",
+    "ageGroup": "under15"
+  },
+  {
+    "question": "What is the name for laws enacted by the General Synod of the Church?",
+    "options": ["Constitution", "Canon", "Litany", "Decree"],
+    "answer": "Canon",
+    "ageGroup": "under15"
+  },
+  {
+    "question": "What distinguishes a Statutory Canon from an Honorary Canon?",
+    "options": ["Statutory Canon is retired", "Honorary Canon leads services", "Statutory Canon has a cathedral stall", "Honorary Canon is chosen by laity"],
+    "answer": "Statutory Canon has a cathedral stall",
+    "ageGroup": "under15"
+  }
+
+  ,
+  {
+    "question": "Which group of advisors did the Philistines consult to determine what to do with the Ark of the Covenant?",
+    "options": ["Prophets and priests", "Rulers and elders", "Sages and kings", "Priests and diviners"],
+    "answer": "Priests and diviners",
+    "ageGroup": "under15"
+  },
+  {
+    "question": "What did the five golden tumors and five golden rats sent with the ark represent?",
+    "options": ["The months the ark was in Philistia", "One for each Philistine lord", "The number of cities affected", "One for each tribe of Israel"],
+    "answer": "One for each Philistine lord",
+    "ageGroup": "under15"
+  },
+  {
+    "question": "How did the Philistines transport the ark of God back to Israel?",
+    "options": ["On a chariot pulled by horses", "On a cart pulled by camels", "On a cart pulled by milch kine", "On the shoulders of priests"],
+    "answer": "On a cart pulled by milch kine",
+    "ageGroup": "under15"
+  },
+  {
+    "question": "At what time of the year did the ark return to Beth Shemesh?",
+    "options": ["During Passover", "During the wheat harvest", "During grape harvest", "During the Feast of Tabernacles"],
+    "answer": "During the wheat harvest",
+    "ageGroup": "under15"
+  },
+  {
+    "question": "To whose house did the people of Kiriath Jearim take the ark?",
+    "options": ["Abijah", "Jonadab", "Ebed Melech", "Abinadab"],
+    "answer": "Abinadab",
+    "ageGroup": "under15"
+  },
+  {
+    "question": "How long did the ark remain at Kiriath Jearim before David moved it?",
+    "options": ["10 years", "20 years", "30 years", "40 years"],
+    "answer": "20 years",
+    "ageGroup": "under15"
+  },
+  {
+    "question": "What did Samuel say the Israelites must do to be delivered from the Philistines?",
+    "options": ["Build an altar to the Lord", "Fast and pray for three days", "Put away foreign gods and Ashtoreths", "Offer seven sacrifices"],
+    "answer": "Put away foreign gods and Ashtoreths",
+    "ageGroup": "under15"
+  },
+  {
+    "question": "What city did Samuel gather Israel in for prayer and repentance?",
+    "options": ["Shiloh", "Bethel", "Mizpah", "Gilgal"],
+    "answer": "Mizpah",
+    "ageGroup": "under15"
+  },
+  {
+    "question": "What did God instruct Samuel to tell the Israelites concerning their demand for a king?",
+    "options": ["To repent and seek the Lord", "To prepare for military service", "To warn them about the king’s demands", "To fast for seven days"],
+    "answer": "To warn them about the king’s demands",
+    "ageGroup": "under15"
+  },
+  {
+    "question": "According to Samuel, what portion of their grain would a king take?",
+    "options": ["A third", "A fifth", "A tenth", "Half"],
+    "answer": "A tenth",
+    "ageGroup": "under15"
+  },
+  {
+    "question": "What would be God's response when the Israelites cried out because of their king?",
+    "options": ["He would hear them", "He would not answer them", "He would replace the king", "He would show mercy"],
+    "answer": "He would not answer them",
+    "ageGroup": "under15"
+  },
+  {
+    "question": "Who did Saul and his servant meet while searching for the seer?",
+    "options": ["A group of elders", "Some young maidens", "A shepherd and his flock", "A band of prophets"],
+    "answer": "Some young maidens",
+    "ageGroup": "under15"
+  },
+  {
+    "question": "What did the Lord tell Samuel about Saul before they met?",
+    "options": ["He would be Israel’s next prophet", "He would deliver Israel", "He would be captain over Israel", "He would rule Judah only"],
+    "answer": "He would be captain over Israel",
+    "ageGroup": "under15"
+  },
+  {
+    "question": "Where did Samuel and Saul first meet?",
+    "options": ["At the altar", "At the city gate", "At the well", "On the road to Gibeah"],
+    "answer": "At the city gate",
+    "ageGroup": "under15"
+  },
+  {
+    "question": "Why did Samuel have Saul send his servant ahead while leaving the city?",
+    "options": ["So they could travel faster", "Because Samuel had a word from God for Saul", "So the servant could gather supplies", "To avoid public attention"],
+    "answer": "Because Samuel had a word from God for Saul",
+    "ageGroup": "under15"
+  },
+
+  
+  {
+    "question": "Who did God instruct Samuel to anoint as the next king of Israel?",
+    "options": ["Jonathan", "Eliab", "David", "Saul"],
+    "answer": "David",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "What was David’s occupation when he was first introduced in the Bible?",
+    "options": ["Blacksmith", "Shepherd", "Soldier", "Priest"],
+    "answer": "Shepherd",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "Complete this verse: Man looks at the outward appearance, but the Lord looks at the ______.",
+    "options": ["deeds", "mind", "heart", "soul"],
+    "answer": "heart",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "To which group did Goliath belong?",
+    "options": ["Amalekites", "Philistines", "Canaanites", "Midianites"],
+    "answer": "Philistines",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "Approximately how tall was Goliath?",
+    "options": ["6 feet", "7 feet", "9 feet", "10 feet"],
+    "answer": "9 feet",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "What weapon did David use to defeat Goliath?",
+    "options": ["Sword", "Bow", "Sling", "Spear"],
+    "answer": "Sling",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "How many days did Goliath challenge the Israelites before his defeat?",
+    "options": ["7", "10", "30", "40"],
+    "answer": "40",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "Who became David’s closest friend?",
+    "options": ["Abner", "Jonathan", "Eliab", "Samuel"],
+    "answer": "Jonathan",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "What reason did God give for rejecting Saul as king?",
+    "options": ["Cowardice", "Disobedience", "Greed", "Pride"],
+    "answer": "Disobedience",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "Who was Jesse’s first son presented to Samuel?",
+    "options": ["Abinadab", "Eliab", "Shammah", "David"],
+    "answer": "Eliab",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "What did Samuel use to anoint David?",
+    "options": ["A horn of oil", "A jar of honey", "A flask of wine", "A bowl of water"],
+    "answer": "A horn of oil",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "Why was David first brought to Saul’s court?",
+    "options": ["To serve as a soldier", "To be his armor-bearer", "To play the harp", "To anoint Saul"],
+    "answer": "To play the harp",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "Besides a spear, what else did Goliath carry?",
+    "options": ["Dagger", "Bow", "Shield", "Sword"],
+    "answer": "Sword",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "What reward did Saul promise to anyone who defeated Goliath?",
+    "options": ["Wealth", "Daughter’s hand in marriage", "Tax exemption", "All of the above"],
+    "answer": "All of the above",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "What did David pick from the brook before fighting Goliath?",
+    "options": ["Pebbles", "Five smooth stones", "Wooden rod", "Sling bullets"],
+    "answer": "Five smooth stones",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "Who criticized David for coming to the battlefield?",
+    "options": ["Saul", "Goliath", "Abner", "Eliab"],
+    "answer": "Eliab",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "What did Jonathan give to David as a sign of their covenant?",
+    "options": ["His bow", "His robe", "His sword", "All of the above"],
+    "answer": "All of the above",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "What troubled Saul after losing God's favor?",
+    "options": ["Blindness", "Leprosy", "Evil spirit", "Fear"],
+    "answer": "Evil spirit",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "How many Philistine foreskins did David bring to Saul instead of 100?",
+    "options": ["200", "50", "120", "90"],
+    "answer": "200",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "Where did David flee to after escaping Saul's court?",
+    "options": ["Jerusalem", "Bethlehem", "Adullam", "Hebron"],
+    "answer": "Adullam",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "Who did Paul see in a vision calling him to Macedonia?",
+    "options": ["A Roman soldier", "An angel", "A man of Macedonia", "Jesus"],
+    "answer": "A man of Macedonia",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "Why was Timothy circumcised before traveling with Paul?",
+    "options": ["To fulfill Jewish customs", "To avoid arrest", "To please Paul", "It was required by Roman law"],
+    "answer": "To fulfill Jewish customs",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "Who was the first European convert mentioned in Acts?",
+    "options": ["Cornelius", "Lydia", "Eunice", "Phoebe"],
+    "answer": "Lydia",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "Where were Paul and Silas when they prayed and sang hymns at midnight?",
+    "options": ["Ship", "House", "Jail", "Synagogue"],
+    "answer": "Jail",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "What was the question of the Philippian jailer to Paul and Silas?",
+    "options": ["Where are you from?", "What must I do to be saved?", "Are you magicians?", "Why are you here?"],
+    "answer": "What must I do to be saved?",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "How were the Bereans described compared to the Thessalonians?",
+    "options": ["More noble and eager for the word", "Quieter and kinder", "Less faithful", "Suspicious"],
+    "answer": "More noble and eager for the word",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "In Athens, Paul referred to an altar with an inscription to:",
+    "options": ["Zeus", "Unknown God", "Hermes", "Apollo"],
+    "answer": "Unknown God",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "What trade did Paul practice while in Corinth?",
+    "options": ["Carpentry", "Fishing", "Tentmaking", "Weaving"],
+    "answer": "Tentmaking",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "Which idol was central to the riot in Ephesus?",
+    "options": ["Artemis", "Zeus", "Apollo", "Hera"],
+    "answer": "Artemis",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "Who calmed the riot in Ephesus with wise words?",
+    "options": ["Paul", "Demetrius", "A city clerk", "Apollos"],
+    "answer": "A city clerk",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "Who predicted Paul’s imprisonment in Jerusalem by binding himself?",
+    "options": ["Luke", "Silas", "Agabus", "Barnabas"],
+    "answer": "Agabus",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "How did Paul avoid being flogged by Roman soldiers?",
+    "options": ["Prayed aloud", "Said he was a Jew", "Claimed Roman citizenship", "Quoted Scripture"],
+    "answer": "Claimed Roman citizenship",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "Before whom did Paul defend himself in Caesarea?",
+    "options": ["Pilate", "Felix", "Herod", "Festus"],
+    "answer": "Felix",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "Paul’s appeal to Caesar meant he would be tried in which city?",
+    "options": ["Corinth", "Antioch", "Rome", "Jerusalem"],
+    "answer": "Rome",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "What storm struck Paul’s ship on the way to Rome?",
+    "options": ["Tempest", "Tornado", "Euroclydon", "Sirocco"],
+    "answer": "Euroclydon",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "How many articles of faith are in the Anglican Church?",
+    "options": ["25", "32", "39", "42"],
+    "answer": "39",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "Article 6 of the 39 Articles emphasizes the sufficiency of the Holy Scriptures for what?",
+    "options": ["Preaching", "Teaching", "Salvation", "Judgment"],
+    "answer": "Salvation",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "Which article discusses the Lord’s Supper?",
+    "options": ["Article 27", "Article 28", "Article 25", "Article 32"],
+    "answer": "Article 28",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "Article 25 discusses the nature of what?",
+    "options": ["Faith", "Sacraments", "Scriptures", "Ministers"],
+    "answer": "Sacraments",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "How many creeds are officially recognized in Anglicanism?",
+    "options": ["2", "3", "4", "5"],
+    "answer": "3",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "Name one of the creeds accepted in Anglican Church doctrine.",
+    "options": ["Nicene Creed", "Westminster Creed", "Catholic Creed", "Council Creed"],
+    "answer": "Nicene Creed",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "What is the foundational authority in Anglicanism according to Article 6?",
+    "options": ["Church tradition", "Papal decree", "Scriptures", "Canon law"],
+    "answer": "Scriptures",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "According to Article 5, what does it teach about the Holy Spirit?",
+    "options": ["He was created", "He is part of the Trinity", "He came only at Pentecost", "He is an angel"],
+    "answer": "He is part of the Trinity",
+    "ageGroup": "under20"
+  }
+
+]
+
