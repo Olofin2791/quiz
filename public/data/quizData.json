@@ -6,7 +6,7 @@
     "ageGroup": "under10"
   },
   {
-    "question": "Who was Elkanah’s wife who vowed to dedicate her son to God’s service?",
+    "question": "Who was Elkanah’s wife?",
     "options": ["Rebekah", "Hannah", "Leah", "Michal"],
     "answer": "Hannah",
     "ageGroup": "under10"
@@ -48,7 +48,7 @@
     "ageGroup": "under10"
   },
   {
-    "question": "How were the actions of Hophni and Phinehas as priests described?",
+    "question": "What was said about the behavior of Hophni and Phinehas in their roles as priests?",
     "options": ["Faithful and diligent", "Corrupt and irreverent", "Young and wise", "Timid and passive"],
     "answer": "Corrupt and irreverent",
     "ageGroup": "under10"
@@ -84,7 +84,7 @@
     "ageGroup": "under10"
   },
   {
-    "question": "What sacred item did Israel wrongly believe would guarantee victory in battle?",
+    "question": "According to 1 Samuel 4:3, What sacred item did Israel wrongly believe would guarantee victory in battle?",
     "options": ["The scrolls", "The Ark of the Covenant", "The altar", "Moses’ staff"],
     "answer": "The Ark of the Covenant",
     "ageGroup": "under10"
@@ -101,12 +101,14 @@
     "answer": "Ichabod",
     "ageGroup": "under10"
   },
-  {
-    "question": "Who authored the Book of Acts, detailing the early church's growth?",
-    "options": ["Paul", "Luke", "Peter", "John"],
-    "answer": "Luke",
-    "ageGroup": "under10"
-  },
+  
+    {
+  "question": "What special event happened on the Day of Pentecost in Acts 2?",
+  "options": ["Jesus was born", "The disciples caught fish", "The Holy Spirit came", "Paul wrote a letter"],
+  "answer": "The Holy Spirit came",
+  "ageGroup": "under10"
+},
+
   {
     "question": "What gift did Jesus promise His followers before ascending to heaven?",
     "options": ["Peace", "Wealth", "The Holy Spirit", "A crown"],
@@ -180,7 +182,7 @@
     "ageGroup": "under10"
   },
   {
-    "question": "Approximately how many people responded and were baptized that day?",
+    "question": "Approximately how many people responded and were baptized on the day of pentecost?",
     "options": ["5,000", "500", "3,000", "1,000"],
     "answer": "3,000",
     "ageGroup": "under10"
@@ -204,13 +206,13 @@
     "ageGroup": "under10"
   },
   {
-    "question": "Which book structures Anglican worship and liturgy?",
+    "question": "Which book is commonly used as a guide for Anglican worship and liturgy?",
     "options": ["The Bible", "Book of Common Prayer", "Anglican Missal", "Creed Manual"],
     "answer": "Book of Common Prayer",
     "ageGroup": "under10"
   },
   {
-    "question": "How many primary sacraments are officially recognized by Anglicans?",
+    "question": "How many primary sacraments are officially recognized in the Anglican Church?",
     "options": ["Three", "Two", "One", "Seven"],
     "answer": "Two",
     "ageGroup": "under10"
@@ -282,10 +284,11 @@
     "ageGroup": "under10"
   },
   {
-    "question": "How many Orders of Worship are found in the Book of Common Prayer?",
-    "options": ["One", "Two", "Three", "Four"],
-    "answer": "Two",
-    "ageGroup": "under10"
+     "question": "What is the name of the church season that prepares us for Easter?",
+  "options": ["Advent", "Christmas", "Lent", "Pentecost"],
+  "answer": "Lent",
+  "ageGroup": "under10"
+
   },
   {
     "question": "What is the meaning of the word 'Amen' in Christian worship?",
@@ -301,7 +304,6 @@
   },
 
 
- 
   {
     "question": "Which of the seven chosen to serve the early Church was noted for being full of faith and the Holy Spirit?",
     "options": ["Procorus", "Nicanor", "Stephen", "Timon"],
@@ -604,6 +606,267 @@
     "options": ["So they could travel faster", "Because Samuel had a word from God for Saul", "So the servant could gather supplies", "To avoid public attention"],
     "answer": "Because Samuel had a word from God for Saul",
     "ageGroup": "under15"
+  },
+
+  
+  {
+    "question": "Who did God instruct Samuel to anoint as the next king of Israel?",
+    "options": ["Jonathan", "Eliab", "David", "Saul"],
+    "answer": "David",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "What was David’s occupation when he was first introduced in the Bible?",
+    "options": ["Blacksmith", "Shepherd", "Soldier", "Priest"],
+    "answer": "Shepherd",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "Complete this verse: Man looks at the outward appearance, but the Lord looks at the ______.",
+    "options": ["deeds", "mind", "heart", "soul"],
+    "answer": "heart",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "To which group did Goliath belong?",
+    "options": ["Amalekites", "Philistines", "Canaanites", "Midianites"],
+    "answer": "Philistines",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "Approximately how tall was Goliath?",
+    "options": ["6 feet", "7 feet", "9 feet", "10 feet"],
+    "answer": "9 feet",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "What weapon did David use to defeat Goliath?",
+    "options": ["Sword", "Bow", "Sling", "Spear"],
+    "answer": "Sling",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "How many days did Goliath challenge the Israelites before his defeat?",
+    "options": ["7", "10", "30", "40"],
+    "answer": "40",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "Who became David’s closest friend?",
+    "options": ["Abner", "Jonathan", "Eliab", "Samuel"],
+    "answer": "Jonathan",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "What reason did God give for rejecting Saul as king?",
+    "options": ["Cowardice", "Disobedience", "Greed", "Pride"],
+    "answer": "Disobedience",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "Who was Jesse’s first son presented to Samuel?",
+    "options": ["Abinadab", "Eliab", "Shammah", "David"],
+    "answer": "Eliab",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "What did Samuel use to anoint David?",
+    "options": ["A horn of oil", "A jar of honey", "A flask of wine", "A bowl of water"],
+    "answer": "A horn of oil",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "Why was David first brought to Saul’s court?",
+    "options": ["To serve as a soldier", "To be his armor-bearer", "To play the harp", "To anoint Saul"],
+    "answer": "To play the harp",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "Besides a spear, what else did Goliath carry?",
+    "options": ["Dagger", "Bow", "Shield", "Sword"],
+    "answer": "Sword",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "What reward did Saul promise to anyone who defeated Goliath?",
+    "options": ["Wealth", "Daughter’s hand in marriage", "Tax exemption", "All of the above"],
+    "answer": "All of the above",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "What did David pick from the brook before fighting Goliath?",
+    "options": ["Pebbles", "Five smooth stones", "Wooden rod", "Sling bullets"],
+    "answer": "Five smooth stones",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "Who criticized David for coming to the battlefield?",
+    "options": ["Saul", "Goliath", "Abner", "Eliab"],
+    "answer": "Eliab",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "What did Jonathan give to David as a sign of their covenant?",
+    "options": ["His bow", "His robe", "His sword", "All of the above"],
+    "answer": "All of the above",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "What troubled Saul after losing God's favor?",
+    "options": ["Blindness", "Leprosy", "Evil spirit", "Fear"],
+    "answer": "Evil spirit",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "How many Philistine foreskins did David bring to Saul instead of 100?",
+    "options": ["200", "50", "120", "90"],
+    "answer": "200",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "Where did David flee to after escaping Saul's court?",
+    "options": ["Jerusalem", "Bethlehem", "Adullam", "Hebron"],
+    "answer": "Adullam",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "Who did Paul see in a vision calling him to Macedonia?",
+    "options": ["A Roman soldier", "An angel", "A man of Macedonia", "Jesus"],
+    "answer": "A man of Macedonia",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "Why was Timothy circumcised before traveling with Paul?",
+    "options": ["To fulfill Jewish customs", "To avoid arrest", "To please Paul", "It was required by Roman law"],
+    "answer": "To fulfill Jewish customs",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "Who was the first European convert mentioned in Acts?",
+    "options": ["Cornelius", "Lydia", "Eunice", "Phoebe"],
+    "answer": "Lydia",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "Where were Paul and Silas when they prayed and sang hymns at midnight?",
+    "options": ["Ship", "House", "Jail", "Synagogue"],
+    "answer": "Jail",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "What was the question of the Philippian jailer to Paul and Silas?",
+    "options": ["Where are you from?", "What must I do to be saved?", "Are you magicians?", "Why are you here?"],
+    "answer": "What must I do to be saved?",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "How were the Bereans described compared to the Thessalonians?",
+    "options": ["More noble and eager for the word", "Quieter and kinder", "Less faithful", "Suspicious"],
+    "answer": "More noble and eager for the word",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "In Athens, Paul referred to an altar with an inscription to:",
+    "options": ["Zeus", "Unknown God", "Hermes", "Apollo"],
+    "answer": "Unknown God",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "What trade did Paul practice while in Corinth?",
+    "options": ["Carpentry", "Fishing", "Tentmaking", "Weaving"],
+    "answer": "Tentmaking",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "Which idol was central to the riot in Ephesus?",
+    "options": ["Artemis", "Zeus", "Apollo", "Hera"],
+    "answer": "Artemis",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "Who calmed the riot in Ephesus with wise words?",
+    "options": ["Paul", "Demetrius", "A city clerk", "Apollos"],
+    "answer": "A city clerk",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "Who predicted Paul’s imprisonment in Jerusalem by binding himself?",
+    "options": ["Luke", "Silas", "Agabus", "Barnabas"],
+    "answer": "Agabus",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "How did Paul avoid being flogged by Roman soldiers?",
+    "options": ["Prayed aloud", "Said he was a Jew", "Claimed Roman citizenship", "Quoted Scripture"],
+    "answer": "Claimed Roman citizenship",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "Before whom did Paul defend himself in Caesarea?",
+    "options": ["Pilate", "Felix", "Herod", "Festus"],
+    "answer": "Felix",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "Paul’s appeal to Caesar meant he would be tried in which city?",
+    "options": ["Corinth", "Antioch", "Rome", "Jerusalem"],
+    "answer": "Rome",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "What storm struck Paul’s ship on the way to Rome?",
+    "options": ["Tempest", "Tornado", "Euroclydon", "Sirocco"],
+    "answer": "Euroclydon",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "How many articles of faith are in the Anglican Church?",
+    "options": ["25", "32", "39", "42"],
+    "answer": "39",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "Article 6 of the 39 Articles emphasizes the sufficiency of the Holy Scriptures for what?",
+    "options": ["Preaching", "Teaching", "Salvation", "Judgment"],
+    "answer": "Salvation",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "Which article discusses the Lord’s Supper?",
+    "options": ["Article 27", "Article 28", "Article 25", "Article 32"],
+    "answer": "Article 28",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "Article 25 discusses the nature of what?",
+    "options": ["Faith", "Sacraments", "Scriptures", "Ministers"],
+    "answer": "Sacraments",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "How many creeds are officially recognized in Anglicanism?",
+    "options": ["2", "3", "4", "5"],
+    "answer": "3",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "Name one of the creeds accepted in Anglican Church doctrine.",
+    "options": ["Nicene Creed", "Westminster Creed", "Catholic Creed", "Council Creed"],
+    "answer": "Nicene Creed",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "What is the foundational authority in Anglicanism according to Article 6?",
+    "options": ["Church tradition", "Papal decree", "Scriptures", "Canon law"],
+    "answer": "Scriptures",
+    "ageGroup": "under20"
+  },
+  {
+    "question": "According to Article 5, what does it teach about the Holy Spirit?",
+    "options": ["He was created", "He is part of the Trinity", "He came only at Pentecost", "He is an angel"],
+    "answer": "He is part of the Trinity",
+    "ageGroup": "under20"
   }
+
 ]
 

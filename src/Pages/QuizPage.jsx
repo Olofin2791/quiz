@@ -111,7 +111,7 @@ const QuizPage = () => {
     }
     setSelectedAnswer(null);
     setShowAnswer(false);
-    setTimer(20);
+    setTimer(60);
     setTimerStarted(false);
     setAnswerFeedback("");
   };
@@ -206,7 +206,7 @@ const QuizPage = () => {
                   </motion.div>
                 )}
               </AnimatePresence>
-              <div className="flex justify-between text-sm mb-3 text-blue-300">
+              <div className="flex justify-between text-2xl font-bold mb-3 text-blue-300">
                 <p>🎖 {player1}: {score1}</p>
                 <p>🎖 {player2}: {score2}</p>
               </div>

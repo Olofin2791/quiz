@@ -22,7 +22,7 @@ const participants = [
   { name: "", gender: "BOY", zone: "IKOSI ZONE", category: "AGE 10 CATEGORY", image: "" },
   { name: "IKECHUKWU NMESOMA", gender: "GIRL", zone: "IKOSI ZONE", category: "AGE 10 CATEGORY", image: "https://res.cloudinary.com/dang2kjfr/image/upload/v1753299392/1753299053415_dlghtz.jpg" },
   
-  { name: "NWABUEZE ST JOSEPH", gender: "BOY", zone: "FESTAC ZONE", category: "AGE 15 CATEGORY", image: "" },
+  { name: "NWABUEZE ST JOSEPH", gender: "BOY", zone: "FESTAC ZONE", category: "AGE 15 CATEGORY", image: "https://res.cloudinary.com/dang2kjfr/image/upload/v1753471525/1753471436751_cwfgf6.jpg" },
   { name: "NWANFULUME PRECIOUS", gender: "GIRL", zone: "FESTAC ZONE", category: "AGE 15 CATEGORY", image: "https://res.cloudinary.com/dang2kjfr/image/upload/v1753388907/1753299053406_lypjg3.jpg" },
   
   { name: "ADETONA AYODEJI",gender: "BOY", zone: "CATHEDRAL ZONE", category: "AGE 15 CATEGORY", image: "https://res.cloudinary.com/dang2kjfr/image/upload/v1753389744/1753389665688_v4ktuz.jpg" },
